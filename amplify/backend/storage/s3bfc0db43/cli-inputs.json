@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3bfc0db43",
+  "policyUUID": "bfc0db43",
+  "bucketName": "journalamplifyreactg16bcae5e949b4dc1bb026a3ab2c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
